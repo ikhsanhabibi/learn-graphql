@@ -1,3 +1,4 @@
 # learn-graphql
 
-https://github.com/griffithtp/graphql-mysql-demo
+GraphQl, MySQL, Sequilize
+- https://github.com/griffithtp/graphql-mysql-demo
