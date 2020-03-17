@@ -32,3 +32,6 @@ https://docs.mongodb.com/stitch/mongodb/actions/collection.findOneAndUpdate/
 
 delete
 - https://stackoverflow.com/questions/55961581/delete-mutation-returns-null
+
+env
+- https://medium.com/@megastar98/using-environment-variables-in-your-node-project-66f284cd9fe6
