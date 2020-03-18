@@ -18,6 +18,8 @@ Structure GraphQL
 Selecting database as data source for GraphQL server
 - https://medium.com/@wtr/selecting-database-as-data-source-for-graphql-server-e3281fcefb2
 
+Query
+- findOne: https://medium.com/better-programming/a-simple-crud-app-using-graphql-nodejs-mongodb-78319908f563
 
 Mutation:
 create
