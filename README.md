@@ -37,3 +37,5 @@ delete
 
 env
 - https://medium.com/@megastar98/using-environment-variables-in-your-node-project-66f284cd9fe6
+
+-Timestamp : https://stackoverflow.com/questions/51830791/graphql-js-timestamp-scalar-type
